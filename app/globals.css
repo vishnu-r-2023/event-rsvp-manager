@@ -71,7 +71,7 @@ body {
 .nav-link:hover .icon-box.logout { background-color: rgba(239, 68, 68, 0.2); }
 .nav-link:hover .icon-box.login { background-color: rgba(16, 185, 129, 0.2); }
 .nav-link:hover .icon-box.user { background-color: rgba(168, 85, 247, 0.2); }
-.nav-link:hover .icon-box.calendar { background-color: rgba(168, 85, 247, 0.2); }
+.nav-link:hover .icon-box.calendar { background-color: rgba(85, 209, 247, 0.2); }
 
 .nav-link:hover .icon {
   color: #a5b4fc;
